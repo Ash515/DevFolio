@@ -765,7 +765,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   PORTFOLIO
+//--//--> Work Experience
 ======================================*/
 
 .work-box {
@@ -818,6 +818,19 @@ a:hover {
 
 .w-title {
   font-size: 1.2rem;
+}
+
+
+.linkedin-link{
+  margin-left: 300px;
+  text-align: center;
+  color:white;
+  width:500px;
+  background-color: rgb(157, 157, 243);
+}
+a{
+  text-decoration: none;
+  color:white;
 }
 
 /*======================================
@@ -914,13 +927,12 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
+  
 }
 
 /*======================================
 //--//-->   BLOG-SINGLE
 ======================================*/
-
 .post-box,
 .form-comments,
 .box-comments,
